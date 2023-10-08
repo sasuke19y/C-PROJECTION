@@ -1,0 +1,3 @@
+C:/Users/Lenovo/Documents/GitHub/C-PROJECTION/cmake-build-debug/CMakeFiles/C_PROJECTION.dir
+C:/Users/Lenovo/Documents/GitHub/C-PROJECTION/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Lenovo/Documents/GitHub/C-PROJECTION/cmake-build-debug/CMakeFiles/rebuild_cache.dir
