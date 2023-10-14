@@ -4,4 +4,5 @@ project(C_PROJECTION C)
 set(CMAKE_C_STANDARD 11)
 
 add_executable(C_PROJECTION
-        "to print the address of 5 variables.c")
+        "to print the address of 5 variables.c"
+        "to swap 2 numbers.c")
